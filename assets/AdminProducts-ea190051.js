@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as o,F as s,a as e}from"./index-8d4449d6.js";const n={},r=e("div",null," 後台產品管理頁面 ",-1),a=e("h3",null,"Products",-1);function _(d,l){return c(),o(s,null,[r,a],64)}const i=t(n,[["render",_]]);export{i as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as r,F as t,a as e}from"./index-f654c997.js";const c={},o=e("div",null," 後台產品管理頁面 ",-1),a=e("h3",null,"Orders",-1);function _(d,l){return n(),r(t,null,[o,a],64)}const f=s(c,[["render",_]]);export{f as default};

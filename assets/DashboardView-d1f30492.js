@@ -1,1 +1,0 @@
-import{_ as o,g as t,r as s,o as a,c as n,f as r,d as c,a as _}from"./index-f654c997.js";const d={components:{RouterView:t}},l=_("hr",null,null,-1);function p(i,u,f,m,V,h){const e=s("RouterView");return a(),n("div",null,[r(" 這是後台頁面 "),l,c(e)])}const x=o(d,[["render",p]]);export{x as default};
